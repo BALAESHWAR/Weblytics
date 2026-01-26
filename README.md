@@ -102,7 +102,7 @@ Expected logs:
 
 <img src="https://raw.githubusercontent.com/BALAESHWAR/Chromalytics/refs/heads/main/screenshots/Screenshot%202026-01-26%20114945.png" width="900">
 
-<img src=""="900">
+<img src="https://raw.githubusercontent.com/BALAESHWAR/Chromalytics/refs/heads/main/website%20tracker%20screenshots%204.png " width="900">
 
 
 
